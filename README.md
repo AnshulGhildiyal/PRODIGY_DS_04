@@ -34,9 +34,9 @@ To run this project, ensure you have the following installed:
 
 Install the required libraries using:  
 
-bash  
+```bash  
 pip install pandas textblob matplotlib  
-
+```
 
 ## **Project Structure**
 
