@@ -21,7 +21,7 @@ The dataset used for this project includes:
   - `Platform`: Source platform (e.g., Twitter, Facebook).  
   - `Sentiment`: Predefined sentiment category (if available).  
   - `Post`: Text content of the post.  
-- **File**: `PRODIGY_DS_04_Data.csv` (ensure it's in the same directory as the script).  
+- **File**: `PRODIGY_DS_04_Data.csv`  
 
 ## **Prerequisites**  
 
